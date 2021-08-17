@@ -15,8 +15,7 @@ class _WishListScreenState extends State<WishListScreen> {
 
 class EmptyWishListScreen extends StatefulWidget {
   @override
-  _EmptyWishListScreenState createState() =>
-      _EmptyWishListScreenState();
+  _EmptyWishListScreenState createState() => _EmptyWishListScreenState();
 }
 
 class _EmptyWishListScreenState extends State<EmptyWishListScreen> {
@@ -51,7 +50,7 @@ class _EmptyWishListScreenState extends State<EmptyWishListScreen> {
             Container(
               width: double.infinity,
               child: Text(
-                "You haven't anything to wish List",
+                "You haven't added anything to wish List",
                 style: TextStyle(
                   color: Color(0xFF67778E),
                   fontFamily: 'Roboto-Light.ttf',
