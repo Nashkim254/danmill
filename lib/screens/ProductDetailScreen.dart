@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:denmall/common_widget/AppBarWidget.dart';
 import 'package:denmall/common_widget/CircularProgress.dart';
 import 'package:denmall/models/ProductDetails.dart';
-import 'package:denmall/utils/Urls.dart';
 import 'package:http/http.dart';
 
 ProductDetails? productDetails;

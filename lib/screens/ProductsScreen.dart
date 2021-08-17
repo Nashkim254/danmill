@@ -2,10 +2,8 @@ import 'dart:convert';
 
 import 'package:denmall/common_widget/AppBarWidget.dart';
 import 'package:denmall/common_widget/CircularProgress.dart';
-import 'package:denmall/common_widget/GridTilesCategory.dart';
 import 'package:denmall/common_widget/GridTilesProducts.dart';
 import 'package:denmall/models/ProductsModel.dart';
-import 'package:denmall/utils/Urls.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart';
 
