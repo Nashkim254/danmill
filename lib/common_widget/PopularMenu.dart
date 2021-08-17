@@ -81,7 +81,7 @@ class PopularMenu extends StatelessWidget {
                 ),
               ),
               Text(
-                "Evaly Store",
+                "Denmall Store",
                 style: TextStyle(
                     color: Color(0xFF969696),
                     fontFamily: defaultFontFamily,

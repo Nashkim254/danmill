@@ -73,7 +73,7 @@ Widget _createDrawerHeader() {
         Positioned(
             bottom: 12.0,
             left: 16.0,
-            child: Text("Developed for learing purpose by 'TARIKUL'",
+            child: Text("Developed for learing purpose by 'Denmall'",
                 style: TextStyle(
                     color: Color(0xFF545454),
                     fontSize: 10.0,
